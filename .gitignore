@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MAX25405_ConnectionTest.js.map
+/MAX25405_ConnectionTest.js

@@ -1,0 +1,10 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"target": "ES2015",
+		"sourceMap": true
+	},
+	"files": [
+		"MAX25405_ConnectionTest.ts"
+	]
+}
